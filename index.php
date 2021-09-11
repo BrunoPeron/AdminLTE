@@ -33,7 +33,7 @@
         <!-- small box -->
         <div class="small-box bg-green no-user-select" id="total_queries" title="only A + AAAA queries">
             <div class="inner">
-                <p>Total queries (<span id="unique_clients">-</span> clients)</p>
+                <p>Total queries Searched (<span id="unique_clients">-</span> clients)</p>
                 <h3 class="statistic"><span id="dns_queries_today">---</span></h3>
             </div>
             <div class="icon">
